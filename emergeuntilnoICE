@@ -22,4 +22,4 @@ do
 done
 
 echo "Compile finished with no errors."
-echo "Full build log left in $bin"
+echo "Full build log left in $log"
