@@ -1,5 +1,4 @@
 # emergeuntilnoICE
 Continuously emerge packages on unstable CPU architectures (i.e. Ryzen version 1) until no ICEs (internal compiler errors) are reported.
 
-if you couldnt already tell, I hate my ryzen 7 1700x. 
-it really sucks. thanks amd
+the amd 1700x sucks. I usually emerge at 10/16 usable threads because it seg faults. thanks AMD
